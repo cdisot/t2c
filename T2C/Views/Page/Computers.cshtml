@@ -1,0 +1,164 @@
+﻿
+@{
+    ViewBag.Title = "Computers";
+    Layout = "~/Views/Shared/_MainPage.cshtml";
+}
+
+<div class="container" ng-controller="AngularCtrl" ng-init="listImagenesMarca('Computers')">
+    <div class="row col-md-offset-1" style="margin-top: 20px">
+        <h3>Sell your iPhone for cash</h3>
+        <h4>It takes just a few minutes to sell your iPhone.</h4>
+    </div>
+    <div class="main_content">
+        <div id="stacks_content" class="iphone" style="height: auto;">
+            <div class="row set">
+                <div class="col-md-2"></div>
+                <div class="col-md-8">
+                    <ul style="padding-left: 110px;" class="main_stack carrier_stack level_1 container">
+                        <li class="line-select" ng-repeat="category in imagenesListFromType" style="height: auto; opacity: 1" ng-class="{act: $index==isActivateModelo}" ng-click="selectActivateModelo($index)">
+                            <a ng-show="divSelectModelo" style="height: auto; opacity: 1;" ng-model=" nametype"><img class="img" src="{{category.PathImagen}}" ng-click="ClicGetkDivices('','','','', '0','0',category.NameType,'Computers','',3)" alt="properties"></a>
+                            <a ng-show="divSelectModeloImage" style="height: auto; opacity: 1;" ng-click="ClicGetkDivices('','','','', '0','0',category.NameType,'Computers','',1)" class="col-md-12">{{category.NameType}}</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+
+
+            <div class="row set">
+                <div class="col-md-2"></div>
+                <div class="col-md-8" ng-show="divSelectModeloImage">
+                    <ul style="padding-left: 110px; padding-top: 20px;" class="main_stack carrier_stack level_1">
+                        <li class="line-select" ng-repeat="modelo in modelos" style="height: auto; opacity: 1" ng-class="{act: $index==isActivateModelo}" ng-click="selectActivateModelo($index)">
+                            <a ng-show="divSelectModelo" style="height: auto; opacity: 1;" ng-model=" nametype"><img src="{{modelo.Imagens[0].PathImagen}}" ng-click="LisComputer(0, '', 0, modelo.Model, Category, 1)" alt="properties" height="70" width="70"></a>
+                            <a ng-show="divSelectModeloImage" style="height: auto; opacity: 1;" ng-click="LisComputer(0, '', '', modelo.Model, Category, 1)" class="col-md-12">{{modelo.Model}}</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+            <br/>
+
+            <div class="row set">
+                <div class="col-md-1"></div>
+                <div class="col-md-5">
+                   
+                        @*//Si tiene Scrizie lo muestro *@
+                    <div class="col-md-3" ng-show="selectDivSize" style="margin-top: 15px;"><label>Screen Size</label></div>
+                    <select class="form-control col-md-5" style="margin-top: 15px;" ng-show="selectDivSize" ng-model="SpecificationsSize" ng-click="LisComputer(SpecificationsSize, '', 0, Model, Category, 2)">
+                        <option ng-repeat="size in sizeComputersList" value={{size}}>
+                            {{size}}
+                        </option>
+                    </select>
+
+                    <div class="col-md-3" ng-show="selectDivProcessor" style="margin-top: 15px;"><label>Processor</label></div>
+                    <select class="form-control col-md-5" style="margin-top: 15px;" ng-show="selectDivProcessor" ng-model="SpecificationsProcessor" ng-click="LisComputer(Size, SpecificationsProcessor, 0, Model, Category, 3)">
+                        <option ng-repeat="processor in processorComputersList" value={{processor}}>
+                            {{processor}}
+                        </option>
+                    </select>
+
+                    <div class="col-md-3" ng-show="selectDivYear" style="margin-top: 15px;"><label>Year</label></div>
+                    <select class="form-control col-md-5" style="margin-top: 15px;" ng-show="selectDivYear" ng-model="SpecificationsYear" ng-click="LisComputer(Size, Processor, SpecificationsYear, Model, Category, 4)">
+                        <option ng-repeat="year in yearComputersList" value={{year}}>
+                            {{year}}
+                        </option>
+                    </select>
+                    <div class="button btn-danger col-md-1" style="margin-top: 15px;" ng-show="selectDivBottonComputer" ng-click="LisComputer(Size, Processor, Year, Model, Category, 5)">Next</div>
+                </div>
+
+
+          
+                <div class="col-md-5" ng-show="selectDivSize">
+                    <div id="help_floater" class="fade-in left" style="display: block; top: 384.292px; left: 425.764px;">
+                        <h3> How to find your system specifications </h3>
+                        <div class="content">
+                            <div class="section">
+                                <h4> Step 1 </h4>
+                                <p> Click the Apple button in the upper left corner and choose 'About this Mac.' </p>
+                                <img src="~/Resources/laptop_help_step1_original.png" alt="laptop-help-step1">
+                                <div class="clear"></div>
+                            </div>
+                            <div class="section">
+                                <h4> Step 2 </h4>
+                                <p> If you are running OS X Mavericks or earlier, click on 'More Info'. Otherwise skip to step 3.' </p>
+                                <img src="~/Resources/laptop_help_step2_original.png" alt="laptop-help-step2">
+                                <div class="clear"></div>
+                            </div>
+                            <div class="section">
+                                <h4> Step 3 </h4>
+                                <p> Here you will find details about your Macbook, including the screen size, processor type, and model year. </p>
+                                <div class="multi-image-column">
+                                    <img src="~/Resources/laptop_help_step3_original.png" style="float: right; margin-right: 15px;" alt="laptop-help-step3">
+                                    <img src="~/Resources/laptop_help_step3_yosemite_original.png" width="215" style="float: right; margin-top: 10px; margin-right: 15px;" alt="computer-help-step23-yosemite">
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                            <div class="section">
+                                <h4> Step 4 </h4>
+                                <p> Click 'System Report' for additional specifications such as model identifier. Click 'Storage' to find hard drive capacity (round up to the closest option.)</p>
+                                <div class="multi-image-column">
+                                    <img src="~/Resources/laptop_help_step4_original.png" alt="laptop-help-step4">
+                                    <img src="~/Resources/desktop_help_step4_yosemite_original.png" width="215" alt="laptop-help-step4-yosemite">
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+               
+            </div>
+
+        </div>
+
+
+    </div>
+
+    <br />
+
+    <div class="clearfix"></div>
+
+    <h4 class="row text-center" ng-show="divSelectPhone" style="background-color: sienna; color: aliceblue">
+        Select your <label style="color: black"> {{Category}}   {{Model}}  </label>  to sell.
+
+    </h4>
+
+
+    <div class="properties-listing spacer" ng-show="divSelectPhone" style="margin-left: -28px">
+        <div class="col-lg-3 col-sm-3 table-bordered" ng-repeat="divice in getlistDivice ">
+            <h5 align="center">
+                <a data-ng-href="@Url.Action("Details", "Page")/{{divice.Id}}" target=" _self">{{divice.Model}}  </a>
+            </h5>
+            <div class="properties">
+                <div class="image-holder">
+                    @*img-responsive*@
+                    <img class="img" src="{{divice.Imagens[0].PathImagen}}" class="" alt="properties" height="220" width="170">
+                    <div class="status sold">
+                        Estado: {{divice.Condition}}
+                    </div>
+                </div>
+                <a data-ng-href="@Url.Action("Details", "Page")/{{divice.Id}}" target="_self">
+
+                </a>
+                <p class="price">
+                    <h3 class="text-danger">Precio: ${{divice.Price}}</h3>
+                </p>
+                <div class="listing-detail">
+                    <span class="glyphicon glyphicon-copyright-mark" data-toggle="tooltip" data-placement="bottom" title="Marca:{{divice.Category}} "></span>
+                    <span class="glyphicon glyphicon-floppy-disk" data-toggle="tooltip" data-placement="bottom" title="Memoria:{{divice.Memory}}GB"></span>
+                    <span class="glyphicon  glyphicon-barcode" data-toggle="tooltip" data-placement="bottom" title="Modelo:{{divice.Model}}"></span>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+
+</div>
+

@@ -1,0 +1,66 @@
+﻿@model IEnumerable<T2C.Models.ImagenModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Administrator.cshtml";
+}
+
+
+
+<h3>Datos</h3>
+
+<div class="col-md-2 left ">@Html.ActionLink("Crear", "Create")</div>
+
+<div class="col-md-2 right">@Html.ActionLink("Eliminar todo", "DeleteAllImagen")</div>
+
+
+<table class="table table-bordered table-hove">
+    <tr class="success" style="color: white">
+        <th class="col-md-1">
+            <label> Imagen</label>
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NameType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Type)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td class="col-md-1">
+                @{
+        var path = item.PathImagen;
+        if (!string.IsNullOrEmpty(path))
+        {
+            <img src=@item.PathImagen width="50" height="50" />
+        }
+        else
+        {
+            <img src="~/Resources/notImage.jpeg" width="50" height="50" />
+        }
+
+                }
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+
+
+                <img src="~/Resources/Edit.png" alt="" height="15" width="15" />@Html.ActionLink("Editar", "Edit", new { id = item.Id }) |
+                <img src="~/Resources/details.png" alt="" height="15" width="15" />@Html.ActionLink("Detalles", "Details", new { id = item.Id }) |
+                <img src="~/Resources/Delete.png" alt="" height="15" width="15" /> @Html.ActionLink("Eliminar", "Delete", new { id = item.Id })
+
+            </td>
+        </tr>
+    }
+
+</table>

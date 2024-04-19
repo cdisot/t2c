@@ -1,0 +1,196 @@
+﻿@{
+    ViewBag.Title = "Index";
+
+    Layout = "~/Views/Shared/_MainPage.cshtml";
+}
+
+
+
+
+
+
+
+
+
+@*//-----------------------------------------------------------------------------------------------------------------------*@
+
+
+
+<div class="container" ng-controller="AngularCtrl">
+    <div class="main_content">
+        <div id="stacks_content" class="iphone" style="height: auto; ">
+            <h4 class="col-md-offset-1 top"> Venda su equipo por dinero en efectivo </h4>
+            <h6 class="col-md-offset-1">Se tarda sólo unos minutos para vender su equipo</h6>
+            <div class="row set">
+                <ul style="padding-left: 110px; " class="main_stack carrier_stack level_1 container">
+                    <li class="line-select " ng-repeat=" company in ListCompany" style="height: auto; opacity: 1" ng-class="{act: $index==isActivate}"
+                        ng-click="selectActivate($index,company.NameType)">
+                        <a href="" ng-show="divSelectCompania" style="height: auto; opacity: 1;" ng-model="NameType"> <img class="img"src="{{company.PathImagen}} " ng-click="ClicGetkDivices('','',company.NameType, '' ,'0','0','',2)" alt=" properties" height="70" width="90"></a>
+                        <a heref="" ng-show="divSelectCompaniaImage" style="height: auto; opacity: 1;" class="col-md-12" ng-model="Company" ng-click="ClicGetkDivices('','',company.NameType, '','0','0','',2)">{{company.NameType}}</a>
+                    </li>
+                </ul>
+
+            </div>
+
+            <div class="row set">
+                <br ng-show="divSelectMarca" />
+                <h3 ng-show="divSelectMarca" class="col-md-offset-1 product_headline">Selecciona tu equipo de {{nombreCompania}} para vender</h3>
+                <ul style="padding-left: 110px; padding-top: 20px;" class="main_stack carrier_stack level_2">
+                    <li class="line-select" ng-repeat="marca in ListMarcas" style="height: auto; opacity: 1;" ng-class="{act: $index==isActivateMarca}" ng-click="selectActivateMarca($index)">
+                        <a ng-show="divSelectMarca" style="height: auto; opacity: 1;" ng-model=" nametype"><img class="img"src="{{marca.PathImagen}}" ng-click="ClicGetkDivices('','',company.NameType, '','0','0',marca.NameType,3)" alt="properties" height="70" width="70"></a>
+                        <a ng-show="divSelectMarcaImage" style="height: auto; opacity: 1;" ng-click="ClicGetkDivices('','',company.NameType, '','0','0',marca.NameType,3)" class="col-md-12">{{marca.NameType}}</a>
+                    </li>
+                </ul>
+
+            </div>
+
+            <div class="row set">
+                <ul style="padding-left: 110px; padding-top: 20px; " class="main_stack carrier_stack level_1">
+                    <li class="line-select" ng-repeat="modelo in modelos" style="height: auto; opacity: 1"  ng-class="{act: $index==isActivateModelo}" ng-click="selectActivateModelo($index)">
+                        <a ng-show="divSelectModelo" style="height: auto; opacity: 1;" ng-model=" nametype"><img class="img"class="img"src="{{modelo.Imagens[0].PathImagen}}" ng-click="ClicGetkDivices('',modelo.Model,company.NameType, '','0','0',marca.NameType,4)" alt="properties" height="70" width="70"></a>
+                        <a ng-show="divSelectModeloImage" style="height: auto; opacity: 1;" ng-click="ClicGetkDivices('',modelo.Model,company.NameType, '','0','0',marca.NameType,4)" class="col-md-12">{{modelo.Model}}</a>
+                    </li>
+                </ul>
+
+            </div>
+
+            <div ng-show="divSelectMemory" style=" padding-top: 20px; opacity: 1">
+    
+                <div class="col-md-1 col-md-offset-1" ng-repeat="cap in Capacidad">
+                    <input type="radio" name="capacidad" ng-click="ClicGetkDivices('',modelo.Model,company.NameType, '','0',cap,marca.NameType,5)" />{{cap}}GB
+                </div>
+
+            </div>
+        </div>
+
+
+
+
+
+    </div>
+
+
+
+
+    <h4 class="row text-center" style="background-color: cornflowerblue; color: aliceblue">
+        Busca el precio que pagamos por tus equipos en <label style="color: black">15 segundos.</label>
+        <span class="glyphicon glyphicon-time"></span>
+    </h4>
+
+    <div class="properties-listing spacer">
+
+        <div class="col-lg-3 col-sm-3 table-bordered" ng-repeat="divice in getlistDivice">
+
+            <h5 align="center" style="margin-top: 10px">
+                <a data-ng-href="@Url.Action("Details", "Page")/{{divice.Id}}" target=" _self">{{divice.Name}}  </a>
+            </h5>
+            <div class="properties">
+                <div class="image-holder">
+                    @*img-responsive*@
+                    <img class="img"src="{{divice.Imagens[0].PathImagen}}" class="" alt="properties" height="220" width="170">
+                    <div class="status sold">
+                        Estado: {{divice.Condition}}
+                    </div>
+                </div>
+                <a data-ng-href="@Url.Action("Details", "Page")/{{divice.Id}}" target="_self">
+                    {{divice.Model}}
+                </a>
+
+                <p class="price">
+                    <h3 class="text-danger">Precio: ${{divice.Price}}</h3>
+                </p>
+                <div class="listing-detail">
+                    <span class="glyphicon glyphicon-copyright-mark" data-toggle="tooltip" data-placement="bottom" title="Marca:{{divice.Category}} "></span>
+                    <span class="glyphicon glyphicon-floppy-disk" data-toggle="tooltip" data-placement="bottom" title="Memoria:{{divice.Memory}}GB"></span>
+                    <span class="glyphicon  glyphicon-barcode" data-toggle="tooltip" data-placement="bottom" title="Modelo:{{divice.Model}}"></span>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @*\
+        @foreach (var item in Model)
+        {
+
+            <!-- properties -->
+            <div class="col-lg-3 col-sm-3 table-bordered">
+
+                <h5 align="center" style="margin-top: 10px">@Html.ActionLink(item.Name, "Details", new { id = item.Id }) </h5>
+                <div class="properties">
+                    <div class="image-holder">
+                        <img src="~/Upload/Iphone.jpg" class="img-responsive" alt="properties">
+                        <div class="status sold">Estado: @Html.DisplayFor(modelItem => item.Condition)</div>
+                    </div>
+                    <h4>@Html.ActionLink(item.Model, "Details", new { id = item.Id })</h4>
+                    <p class="price">
+                        Precio: $@Html.DisplayFor(modelItem => item.Price)
+                    </p>
+
+                    @{
+            var enciende = "No";
+            if (@item.Start)
+            {
+                enciende = "Si";
+            }
+                    }
+                    <div class="listing-detail">
+                        <span class="glyphicon glyphicon-barcode" data-toggle="tooltip" data-placement="bottom" data-original-title="Modelo: @Html.DisplayFor(modelItem => item.Model)"></span>
+                        <span class="glyphicon glyphicon-floppy-disk" data-toggle="tooltip" data-placement="bottom" data-original-title="Memoria: @Html.DisplayFor(modelItem => item.Memory)GB"></span>
+                        <span class="glyphicon glyphicon-sort" data-toggle="tooltip" data-placement="bottom" data-original-title="Enciende: @enciende"></span>
+
+                    </div>
+                    @Html.ActionLink("Ver", "Details", new { id = item.Id }, new { @class = "btn btn-primary" })
+                </div>
+
+            </div>
+
+
+
+        }*@
+
+
+
+
+
+
+
+
+    <!-- properties -->
+    @*<div class="center">
+            <ul class="pagination">
+                <li><a href="#">«</a></li>
+                <li><a href="#">1</a></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">3</a></li>
+                <li><a href="#">4</a></li>
+                <li><a href="#">5</a></li>
+                <li><a href="#">»</a></li>
+            </ul>
+        </div>*@
+
+
+
+

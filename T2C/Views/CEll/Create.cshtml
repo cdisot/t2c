@@ -1,0 +1,201 @@
+﻿@using System.Activities.Statements
+@model T2C.Models.CellModel
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Administrator.cshtml";
+}
+
+
+@using (Html.BeginForm("Create", "Cell", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+
+    <div class="panel panel-success">
+        <div class="panel-heading">
+            <h4 class="panel-title" style="color:white"> Crear equipo</h4>
+        </div>
+        <div class="panel-body">
+
+
+            <div class="form-horizontal">
+                <hr/>
+                <div class="col-md-2"></div>
+                <div class="col-md-8 form-group">
+                    <label class="control-label col-md-2">Tipo</label>
+                    <div class="col-md-10">
+                        <select name="tipo" class="form-control" ng-model="selectedType" ng-click="selectTypeDiviceToCreateDivice(selectedType)">
+                            <option value="Iphone">Iphone</option>
+                            <option value="Phone">Phone</option>
+                            <option value="Ipad">Ipad</option>
+                            <option value="Tablets">Tablets</option>
+                            <option value="Ipod">Ipod</option>
+                            <option value="Computers">Computers</option>
+                            <option value="Other">Other</option>
+                        </select>
+
+                        @*@Html.DropDownListFor(model => model.Type, new SelectList(ViewBag.ListType, "Value", "Text"), new {@class = "form-control"})
+                        @Html.ValidationMessageFor(model => model.Type, "", new {@class = "text-danger"})*@
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+                @Html.ValidationSummary(true, "", new {@class = "text-danger"})
+                <div class="col-md-6 form-group" ng-show="NameType">
+                    <label class="control-label col-md-2">Nombre</label>
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Name, new {htmlAttributes = new {@class = "form-control"}})
+                        @Html.ValidationMessageFor(model => model.Name, "", new {@class = "text-danger"})
+                    </div>
+                </div>
+
+                <div class="col-md-6 form-group" ng-show="PriceType">
+                    <label class="control-label col-md-2">Precio</label>
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Price, new {htmlAttributes = new {@class = "form-control"}})
+                        @Html.ValidationMessageFor(model => model.Price, "", new {@class = "text-danger"})
+
+                    </div>
+                </div>
+
+                <div class="col-md-6 form-group" ng-show="CategoryType">
+                    <label class="control-label col-md-2">Marca</label>
+                    <div class="col-md-10">
+                        <select name="marca" class="form-control" ng-model="selectedMarca" ng-click="clickMarca(selectedMarca)">
+                            <option ng-repeat="m in listmarcas" value={{m}}>
+                                {{m}}
+                            </option>
+                        </select>
+                        @* @Html.DropDownListFor(model => model.Category, new SelectList(ViewBag.ListaMarcas, "Value", "Text"), new { @class = "form-control", @'ng-model'="" })*@
+                        @Html.ValidationMessageFor(model => model.Category, "", new {@class = "text-danger"})
+
+                    </div>
+                </div>
+
+                <div class="col-md-6 form-group" ng-show="MemoryType">
+                    <label class="control-label col-md-2">Capacidad</label>
+                    <div class="col-md-10">
+
+                        @Html.EditorFor(model => model.Memory, new {htmlAttributes = new {@class = "form-control "}})
+                        @Html.ValidationMessageFor(model => model.Memory, "", new {@class = "text-danger"})
+                    </div>
+                </div>
+                <div class="col-md-6 form-group" ng-show="Generation">
+                    <label class="control-label col-md-2">Capacidad</label>
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(model => model.Generation, new SelectList(ViewBag.Generation, "Value", "Text"), new {@class = "form-control"})
+
+                        @Html.ValidationMessageFor(model => model.Generation, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="col-md-6 form-group" ng-show="ModelType">
+                    <label class="control-label col-md-2" ng-show="ModelType">Modelo</label>
+                    <i class="control-label col-md-12 text-right"> <a href="" ng-model="nameClose" ng-click="ClickNewClose(nameClose)">{{nameClose}}</a></i>
+                    <div class="col-md-10" ng-show="divSelelectModel">
+                        <select name="modelo" class="form-control" ng-disabled="divSelectNewModel">
+                            <option ng-repeat="modelo in listModelos" value={{modelo}}>
+                                {{modelo}}
+                            </option>
+                        </select>
+                        @*@Html.DropDownListFor(model => model.Model, new SelectList(ViewBag.ListaModelo, "Value", "Text"), new { @class = "form-control" })*@
+                        @Html.ValidationMessageFor(model => model.Model, "", new {@class = "text-danger"})
+
+                    </div>
+                    <div class="col-md-10" ng-show="divSelectNewModel" ng-disabled="divSelelectModel">
+                        @Html.EditorFor(model => model.Model, new {htmlAttributes = new {@class = "form-control "}})
+                        @Html.ValidationMessageFor(model => model.Model, "", new {@class = "text-danger"})
+
+                    </div>
+
+                </div>
+                <div class="col-md-6 form-group" ng-show="ConditionType">
+                    <label class="control-label col-md-2">Condición</label>
+
+                    <div class="col-md-10">
+
+                        @Html.DropDownListFor(model => model.Condition, new SelectList(ViewBag.Condition, "Value", "Text", ""), new {@class = "form-control"})
+
+                        @Html.ValidationMessageFor(model => model.Condition, "", new {@class = "text-danger"})
+
+                    </div>
+                </div>
+                <div class="col-md-6 form-group" ng-show="CompanyType">
+                    <label class="control-label col-md-2">Compañía</label>
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(model => model.Company, new SelectList(ViewBag.ListCompany, "Value", "Text"), new {@class = "form-control"})
+                        @Html.ValidationMessageFor(model => model.Company, "", new {@class = "text-danger"})
+
+                    </div>
+                </div>
+
+
+                @*datos para la computadora *@
+                <div class="col-md-6 form-group" ng-show="ProcessorComputers">
+                    <label class="control-label col-md-2">Procesador</label>
+                    <div class="col-md-8">
+                        @Html.EditorFor(model => model.Processor, new {htmlAttributes = new {@class = "form-control "}})
+                        @Html.ValidationMessageFor(model => model.Processor, "", new {@class = "text-danger"})
+                        </div>
+                    </div>
+         
+                <div class="col-md-6 form-group" ng-show="SizeComputers">
+                    <label class="control-label col-md-2">Tamaño</label>
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(model => model.Size, new SelectList(ViewBag.ListSize, "Value", "Text"), new {@class = "form-control"})
+                        @Html.ValidationMessageFor(model => model.Size, "", new {@class = "text-danger"})
+
+                    </div>
+                </div>
+                <div class="col-md-6 form-group" ng-show="ProcessorComputers">
+                    <label class="control-label col-md-2">Frecuencia</label>
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(model => model.FrecuencyProcessor, new SelectList(ViewBag.ListProcessor, "Value", "Text"), new {@class = "form-control"})
+                        @Html.ValidationMessageFor(model => model.FrecuencyProcessor, "", new { @class = "text-danger" })
+
+                    </div>
+                </div>
+                <div class="col-md-6 form-group" ng-show="YearComputers">
+                    <label class="control-label col-md-2">Año</label>
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(model => model.Year, new SelectList(ViewBag.ListYear, "Value", "Text"), new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Year, "", new { @class = "text-danger" })
+
+                    </div>
+                </div>
+
+                <div class="col-md-6 form-group" ng-show="StartType">
+                    <label class="control-label col-md-2">Enciende</label>
+                    <div class="col-md-8">
+                        @Html.CheckBoxFor(model => model.Start, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Start, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="col-md-6 form-group" ng-show="ImagesType">
+                    <input type="file" name="files" value="" class="btn btn-warning " multiple="multiple" />
+                    @* <input type="file" id="file" name="files" onchange="angular.element(this).scope().setFile(this)" accept="image/*" class="btn btn-warning"/>>*@
+
+                </div>
+
+                <hr />
+
+                <div class="form-group" ng-show="btnTypeCrear">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Adicionar" class="btn btn-default" />
+                    </div>
+                </div>
+
+            </div>
+
+
+
+
+        </div>
+    </div>
+
+
+}
+
+
+<div>
+    @Html.ActionLink("Volver", "Index")
+</div>

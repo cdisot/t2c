@@ -1,0 +1,207 @@
+﻿body {
+    padding-bottom: 20px;
+    background-color: beige;
+    font-family: "Helvetica Neue",Helvetica,arial,sans-serif;
+}
+
+
+/*
+
+    Aqui comienza la css pra el filtro 
+
+*/
+
+
+.linebottom {
+    border-bottom: 1px solid #CCC;
+}
+
+
+
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.bar-style, .bar-top, .bar-left {
+    background-color: #d8d8d7;
+}
+
+.bar-top {
+    padding-left: 10px;
+    color: white;
+    height: 35px;
+}
+
+.bar-left {
+    padding-top: 20px;
+    height: 600px;
+    width: 152px;
+}
+
+.image-background-logo {
+    height: 36px;
+    width: 100px;
+    background-image: url(../Resources/Logo.png);
+    background-repeat: no-repeat;
+}
+
+.image-background-inicio {
+    height: 36px;
+    width: 100px;
+    background-image: url(../Resources/inicio.png);
+    background-repeat: no-repeat;
+}
+
+.image-background-email {
+    height: 36px;
+    width: 100px;
+    background-image: url(../Resources/e-mail.png);
+    background-repeat: no-repeat;
+}
+
+.image-background-comment {
+    height: 36px;
+    width: 100px;
+    background-image: url(../Resources/Comment.png);
+    background-repeat: no-repeat;
+}
+
+.div-mneu-left:hover {
+    background-color: darkgray;
+    color: black;
+}
+
+.div-mneu-left:visited {
+    color: dimgrey;
+}
+
+.container-information {
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.headerSite {
+    height: 100px;
+    width: auto;
+    /*margin-top: 5px;*/
+    /*padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;*/
+    /*margin-left: auto;*/
+    background-image: url(../Resources/Header.jpg);
+    background-repeat: no-repeat;
+}
+
+.wrapper {
+    width: 1000px;
+    overflow: hidden;
+    min-height: 100%;
+    margin: 0px auto;
+    box-shadow: 0px 5px 5px 5px rgba(0, 0, 0, 0.2);
+    
+    
+}
+
+.footerCopy {
+    text-align: center;
+    font-size: 12px;
+    background: none repeat scroll 0% 0% #f5deb3;
+    border-bottom: 1px solid #F7942B;
+    padding-top: 10px;
+}
+    .circleInformation, .circleNumbrer {
+            display: block;
+    margin: 0 auto 15px;
+    padding: 0;
+    background: #FFF;
+    border: 2px solid #a52a2a;
+    border-radius: 100%;
+    text-align: center;
+    }
+  .circleNumbrer{
+       width: 20px;
+    height: 20px;
+  }
+  .circleInformation {
+       width: 120px;
+    height: 120px;
+  }
+
+  .img{
+  margin:10px auto;
+  width:75px;
+  height:120px;
+
+  }
+.img img{
+  width: 100%;
+
+}
+@media all and (min-width: 100px) and (max-width: 200px)
+{  
+.img{
+  margin:20px auto;
+  width:190px;
+  height:200px;
+  }
+}
+.img img{
+   width:100%;
+} 
+
+#help_floater {
+
+width: 400px;
+top: 0px;
+left: 0px;
+background: none repeat scroll 0% 0% #F1F2F2;
+z-index: 100;
+display: none;
+min-height: 265px;
+border: 1px solid #CCC;
+}
+#help_floater .ipod .section h4 {
+    border-bottom: 1px solid #333;
+padding-bottom: 2px;
+margin-bottom: 4px;
+}
+#help_floater .section h4 {
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+#help_floater .ipod .floater h5 {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+#help_floater .section h4 {
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+#help_floater .content .section {
+    margin-bottom: 15px;
+    padding: 10px;
+}
+.nameIdentifyGeneration {
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    
+}

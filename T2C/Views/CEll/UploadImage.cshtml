@@ -1,0 +1,38 @@
+﻿@*
+    <div ng-controller="AngularCtrl">
+        <div class="col-md-6 form-group">
+
+            <div class="col-md-12" style="text-align: center; margin-bottom: 10px;">
+                <input type="file" id="file" name="file" multiple onchange="angular.element(this).scope().setFile(this)" accept="image/*" class="btn btn-warning"/>
+            </div>
+
+
+            <div class="col-md-6 form-group">
+                <div class=" col-md-12">
+                    <input type="button" value="Subir imagen" ng-click="UploadFile()" class="btn btn-primary" />
+                </div>
+            </div>
+
+
+        </div>
+
+    </div>
+
+*@
+
+
+
+<div class="col-md-12 form-group">
+    <h4>Imagen</h4>
+
+    <div class="col-md-6">
+
+
+        <div class="col-md-12" style="text-align: center; margin-bottom: 10px;">
+            <input type="file" name="files" value="" class="btn btn-warning " multiple="multiple"/>
+            @* <input type="file" id="file" name="files" onchange="angular.element(this).scope().setFile(this)" accept="image/*" class="btn btn-warning"/>>*@
+        </div>
+        <div class="col-md-12 text-success" style="text-align: center; margin-bottom: 10px;">@ViewBag.Message</div>
+    </div>
+
+</div>

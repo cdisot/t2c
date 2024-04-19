@@ -1,0 +1,170 @@
+﻿
+@{
+    ViewBag.Title = "Ipod";
+    Layout = "~/Views/Shared/_MainPage.cshtml";
+}
+
+<div class="container" ng-controller="AngularCtrl" ng-init="listImagenesMarca('Ipod')">
+    <div class="row col-md-offset-1" style="margin-top: 20px">
+        <h3>Sell your Ipod for cash</h3>
+        <h4>It takes just a few minutes to sell your Ipod.</h4>
+    </div>
+    <div class="main_content">
+        <div id="stacks_content" class="iphone" style="height: auto;">
+            <div class="row set">
+                <div class="col-md-2"></div>
+                <div class="col-md-8">
+                    <ul style="padding-left: 110px;" class="main_stack carrier_stack level_1 container">
+
+                        <li class="line-select" ng-repeat="category in imagenesListFromType" style="height: auto; opacity: 1" ng-class="{act: $index==isActivateModelo}" ng-click="selectActivateModelo($index)">
+                            <a ng-show="divSelectModelo" style="height: auto; opacity: 1;" ng-model=" nametype"><img class="img" src="{{category.PathImagen}}" ng-click="ClicGetkDivices('','','','', '0','0',category.NameType,'Ipod','',6)" alt="properties"></a>
+                            <a ng-show="divSelectModeloImage" style="height: auto; opacity: 1;" ng-click="ClicGetkDivices('','','','', '0','0',category.NameType,'Ipod','',6)" class="col-md-12">{{category.NameType}}</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
+
+                <div class="row set">
+                    <ul class="main_stack carrier_stack level_1 container">
+                        <li class="line-select " ng-repeat="gen in Generations" style="height: auto; opacity: 1; margin-left: 3px;" ng-class="{act: $index==isActivate}"
+                            ng-click="selectActivate($index,company.NameType)">
+                            <button type="button" ng-show="divSelectGeneration" style="height: auto; opacity: 1;" class=" btn btn-warning" ng-model="Company" ng-click="ClicGetkDivices('','','', '' ,'0','0',Category,'Ipod',gen,5)">
+                                <h4>{{gen}}</h4>
+                            </button>
+                        </li>
+                        <li style="height: auto; opacity: 1">
+
+
+                            <div id="help_floater" ng-show="divSelectGeneration" style="opacity: 1; display: block; left: 297.002px; top: 150px" class="fade-in col-md-offset-2 act">
+
+                                <h3>How to identify your generation</h3>
+                                <div class="content ipod">
+                                    <div class="section">
+                                        <h3 class="nameIdentifyGeneration"> Touch </h3>
+                                        <div class="floaters">
+                                            <div class="left floater">
+                                                <h4>3rd Generation</h4>
+                                                <img src="~/Resources/ipod_touch.png" alt="ipod-help-touch-3">
+                                                <p>Rounded metal back, Model A1318</p>
+                                            </div>
+                                            <div class="left floater">
+                                                <h4>4th Generation</h4>
+                                                <img src="~/Resources/ipod_touch-1.png" alt="ipod-help-touch-4b">
+                                                <p>Flat/angled metal back with camera, Model A1367</p>
+                                            </div>
+                                            <div class="left floater">
+                                                <h4>5th Generation</h4>
+                                                <img src="~/Resources/ipod_touch_5th.png" alt="ipod-help-touch-5">
+                                                <p>Flat back in 5 colors, Model A1421</p>
+                                            </div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                    <div class="section">
+                                        <h3 class="nameIdentifyGeneration"> Nano </h3>
+                                        <div class="floaters">
+                                            <div class="left floater">
+                                                <h4>6th Generation</h4>
+                                                <img src="~/Resources/ipod_nano.png" alt="ipod-help-nano-6">
+                                                <p>Small square with a touchscreen</p>
+                                            </div>
+                                            <div class="left floater">
+                                                <h4>7th Generation</h4>
+                                                <img src="~/Resources/ipod_nano_7th.png" alt="ipod-help-nano-7">
+                                                <p>Tall, skinny metal housing with a touchscreen</p>
+                                            </div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                    <div class="section">
+                                        <h3 class="nameIdentifyGeneration"> Classic </h3>
+                                        <div class="floaters">
+                                            <div class="left floater">
+                                                <h4>5th Generation</h4>
+                                                <img src="~/Resources/ipod_classic_5.png" alt="ipod-help-classic-5">
+                                                <p>Flat white or black plastic front</p>
+                                            </div>
+                                            <div class="left floater">
+                                                <h4>6th Generation</h4>
+                                                <img src="~/Resources/ipod_classic.png" alt="ipod-help-classic-6">
+                                                <p>All metal body with an anodized front</p>
+                                            </div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+            <div class="col-md-2"></div>
+
+
+        </div>
+
+
+    </div>
+
+    <br />
+
+    <div class="clearfix"></div>
+
+    <h4 class="row text-center" ng-show="divSelectPhone" style="background-color: sienna; color: aliceblue">
+        Select your  <label style="color: black">Ipod {{Category}} </label>
+
+    </h4>
+
+
+    <div class="properties-listing spacer" ng-show="divSelectPhone" style="margin-left: -28px">
+        <div class="col-lg-3 col-sm-3 table-bordered" ng-repeat="divice in getlistDivice ">
+            <h5 align="center">
+                <a data-ng-href="@Url.Action("DetailsIpod", "Page")/{{divice.Id}}" target="_self">{{divice.Name}}  </a>
+            </h5>
+            <div class="properties">
+                <div class="image-holder">
+                    @*img-responsive*@
+                    <a data-ng-href="@Url.Action("DetailsIpod", "Page")/{{divice.Id}}" target="_self">
+                        <img class="img" src="{{divice.Imagens[0].PathImagen}}" class="" alt="properties" height="220" width="170">
+                    </a>
+                    <div class="status sold">
+                        Estado: {{divice.Condition}}
+                    </div>
+                </div>
+                <a data-ng-href="@Url.Action("DetailsIpod", "Page")/{{divice.Id}}" target="_self">
+                    {{divice.Generation}}
+                </a>
+                <p class="price">
+                    <h3 class="text-danger">Precio: ${{divice.Price}}</h3>
+                </p>
+                <div class="listing-detail">
+                    <span class="glyphicon glyphicon-copyright-mark" data-toggle="tooltip" data-placement="bottom" title="Marca:{{divice.Category}} "></span>
+                    <span class="glyphicon glyphicon-floppy-disk" data-toggle="tooltip" data-placement="bottom" title="Memoria:{{divice.Memory}}GB"></span>
+                    <span class="glyphicon  glyphicon-share" data-toggle="tooltip" data-placement="bottom" title="Generación:{{divice.Generation}}"></span>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>

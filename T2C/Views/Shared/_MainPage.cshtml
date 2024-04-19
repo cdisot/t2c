@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+
+<html ng-app="MyApp">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - T2C</title>
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body ng-controller="AngularCtrl">
+
+    <div class="wrapper">
+        <div class="col-md-12 text-right">
+            <img src="~/Resources/spanish.png" width="20" height="20" /><img src="~/Resources/english.png" width="20" height="20" />
+        </div>
+        <div class="col-md-12 headerSite"></div>
+        <ul class="nav nav-pills" style="margin-top: 0; background-color: #f5deb3;font-family: brandon_grotesquelight;font-size: 15px;">
+            <li><a href="~/Page/t2c">HOME</a></li>
+             <li><a href="~/Page/Iphone">IPHONE</a></li>
+            <li ><a href="~/Page/Android"> CELL PHONES</a></li>
+            <li><a href="~/Page/Ipod">IPOD</a></li>
+            <li><a href="~/Page/Ipad">IPAD</a></li>
+            <li ><a href="~/Page/Tablet">TABLETS</a></li>
+            <li><a href="~/Page/Computers">COMPUTERS</a></li>
+
+        </ul>
+        <div class="row">
+            @RenderBody()
+        </div>
+        @*<div class="col-md-12">
+
+
+                -----Propiedades mas vistas------
+                <div class="col-md-12">
+                    <div class="hot-properties hidden-xs">
+                        <h4 class="row text-center" style="background-color: chocolate; color: aliceblue">
+                            <span class=" glyphicon glyphicon-briefcase"></span> Mejores ofertas de la semana
+
+                        </h4>
+
+                        @{
+                            var list = ViewBag.Visits;
+                        }
+
+                        <div class="row text-center" style="color: aliceblue; ">
+
+                            @{
+                                if (list != null)
+                                {
+                                    var count = 0;
+                                    foreach (var item in list)
+                                    {
+                                        count ++;
+                                        var imagen = "";
+                                         var enumerable = item.Imagens as IList<IImagen> ?? item.Imagens.ToList();
+
+                                         if (enumerable != null && enumerable.Count>0)
+                                        {
+                                            imagen = item.Imagens[0].PathImagen;
+                                        }
+                                        else
+                                        {
+                                            imagen = "/Resources/notImage.jpg";
+                                        }
+                            <div class="col-md-3">
+                                <div class="col-md-5">
+                                    <img src=@imagen class="img-responsive img-rounded" alt="properties">
+                                </div>
+                                <div class="col-md-3 col-lg-6 col-sm-5 text-left ">
+                                    <h5>@item.Name</h5>
+                                    <h3>
+                                        <p class="price text-danger"> $@item.Price</p>
+                                    </h3>
+                                    <h5>
+                                        <p class="price" style="margin-top: -10px;">@Html.ActionLink("Ver", "Details", "Page", new {id = item.Id}, new {@class = "text-center"})</p>
+                                    </h5>
+                                </div>
+                            </div>
+                                        if (count == 4)
+                                        {
+
+
+                                            count=0;
+
+                                        }
+                                    }
+                                }
+                            }
+                            }
+
+                        </div>
+                    </div>
+                </div>
+            </div>*@
+
+        <div class="row" style="margin-top: 20px;">
+            <div class="row col-md-offset-1">
+                <div class="col-md-3">
+                    <h5 style="color: firebrick"><strong>What is T2C?</strong></h5>
+                    T2C is an online reCommerce service that helps you sell your
+                    used electronics for cash. Whether you are selling your iPhone, iPad or other smartphone,
+                    T2C helps you get value for your old electronics.
+
+                </div>
+
+                <div class="col-md-4">
+                    <h5 style="color: firebrick"><strong>What Happens When I Sell My Phone and Electronics?</strong></h5>
+                    Once your trade in is received, your cell phones and electronics are inspected to make sure their
+                    condition matches your evaluation. Then we send your payment. The process takes about a week once
+                    we receive your box.
+
+                </div>
+                <div class="col-md-4">
+                    <h5 style="color: firebrick"><strong>What Can I Sell to T2C?</strong></h5>
+                    ou can sell your used iPhone, iPad, iPod or MacBook to T2C.  In addition to Apple products, we buy back smartphones from AT&T, Verizon, Sprint and other
+                    major cell phone carriers.
+
+                </div>
+            </div>
+        </div>
+        <footer>
+            <div class="footerCopy">
+                <p>&copy; @DateTime.Now.Year - T2C, Inc. Todos los derechos reservados.</p>
+            </div>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/angular/angular")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+</body>
+
+</html>

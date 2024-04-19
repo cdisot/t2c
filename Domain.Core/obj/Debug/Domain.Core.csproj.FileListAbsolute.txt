@@ -1,0 +1,62 @@
+E:\Work\Viñales\Source\Agencia\Agencia\Domain.Core\bin\Debug\Domain.Core.dll
+E:\Work\Viñales\Source\Agencia\Agencia\Domain.Core\bin\Debug\Domain.Core.pdb
+E:\Work\Viñales\Source\Agencia\Agencia\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+E:\Work\Viñales\Source\Agencia\Agencia\Domain.Core\obj\Debug\Domain.Core.dll
+E:\Work\Viñales\Source\Agencia\Agencia\Domain.Core\obj\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.pdb
+D:\Projects\Atur\Agencia22-7-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.pdb
+D:\Projects\Atur\Agencia22-7-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+D:\Projects\Atur\Agencia22-7-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.pdb
+D:\Projects\Atur\Agencia23-7-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.pdb
+D:\Projects\Atur\Agencia23-7-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+D:\Projects\Atur\Agencia23-7-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.dll.CodeAnalysisLog.xml
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.dll.lastcodeanalysissucceeded
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.pdb
+D:\Proyecto\Agencia 2-9-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.pdb
+D:\Proyecto\Agencia 2-9-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+D:\Proyecto\Agencia 2-9-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\Domain.Core\bin\Debug\Domain.Core.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\Domain.Core\obj\Debug\Domain.Core.pdb
+D:\Proyecto\Celulares\Source\T2C\Domain.Core\bin\Debug\Domain.Core.dll
+D:\Proyecto\Celulares\Source\T2C\Domain.Core\bin\Debug\Domain.Core.pdb
+D:\Proyecto\Celulares\Source\T2C\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+D:\Proyecto\Celulares\Source\T2C\Domain.Core\obj\Debug\Domain.Core.dll
+D:\Proyecto\Celulares\Source\T2C\Domain.Core\obj\Debug\Domain.Core.pdb
+D:\Proyecto\Celulares\Repository\Domain.Core\bin\Debug\Domain.Core.dll
+D:\Proyecto\Celulares\Repository\Domain.Core\bin\Debug\Domain.Core.pdb
+D:\Proyecto\Celulares\Repository\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+D:\Proyecto\Celulares\Repository\Domain.Core\obj\Debug\Domain.Core.dll
+D:\Proyecto\Celulares\Repository\Domain.Core\obj\Debug\Domain.Core.pdb

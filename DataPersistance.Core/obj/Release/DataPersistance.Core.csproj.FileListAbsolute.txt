@@ -1,0 +1,28 @@
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\DataPersistance.Core\bin\Release\DataPersistance.Core.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\DataPersistance.Core\bin\Release\DataPersistance.Core.pdb
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\DataPersistance.Core\bin\Release\Domain.Core.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\DataPersistance.Core\bin\Release\Domain.Core.pdb
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\DataPersistance.Core\obj\Release\DataPersistance.Core.csprojResolveAssemblyReference.cache
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\DataPersistance.Core\obj\Release\DataPersistance.Core.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\DataPersistance.Core\obj\Release\DataPersistance.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\DataPersistance.Core\bin\Release\DataPersistance.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\DataPersistance.Core\bin\Release\DataPersistance.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\DataPersistance.Core\bin\Release\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\DataPersistance.Core\bin\Release\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\DataPersistance.Core\obj\Release\DataPersistance.Core.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\DataPersistance.Core\obj\Release\DataPersistance.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\DataPersistance.Core\obj\Release\DataPersistance.Core.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.Core\bin\Release\DataPersistance.Core.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.Core\bin\Release\DataPersistance.Core.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.Core\bin\Release\Domain.Core.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.Core\bin\Release\Domain.Core.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.Core\obj\Release\DataPersistance.Core.csprojResolveAssemblyReference.cache
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.Core\obj\Release\DataPersistance.Core.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.Core\obj\Release\DataPersistance.Core.pdb
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.Core\bin\Release\DataPersistance.Core.dll
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.Core\bin\Release\DataPersistance.Core.pdb
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.Core\bin\Release\Domain.Core.dll
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.Core\bin\Release\Domain.Core.pdb
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.Core\obj\Release\DataPersistance.Core.csprojResolveAssemblyReference.cache
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.Core\obj\Release\DataPersistance.Core.dll
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.Core\obj\Release\DataPersistance.Core.pdb

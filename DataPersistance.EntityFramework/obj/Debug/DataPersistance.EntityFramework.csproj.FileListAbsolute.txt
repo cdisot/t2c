@@ -1,0 +1,224 @@
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.pdb
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.dll
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.pdb
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.csprojResolveAssemblyReference.cache
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll.config
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.dll
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.dll
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.dll
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.dll
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.pdb
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.pdb
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.pdb
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.xml
+E:\Work\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll.config
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.pdb
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.dll
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.dll
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.dll
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.dll
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.pdb
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.pdb
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.pdb
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.xml
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.csprojResolveAssemblyReference.cache
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.dll
+D:\Projects\Viñales\Source\Agencia\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.pdb
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll.config
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.pdb
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.dll
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.dll
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.dll
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.dll
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.pdb
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.pdb
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.pdb
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.xml
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.csprojResolveAssemblyReference.cache
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.dll
+D:\Projects\Viñales\Source\Agencia10-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.pdb
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll.config
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.pdb
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.pdb
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.xml
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.pdb
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll.config
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.pdb
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.pdb
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.pdb
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.pdb
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.xml
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.csprojResolveAssemblyReference.cache
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.pdb
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll.config
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.pdb
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.pdb
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.pdb
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.pdb
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.xml
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.csprojResolveAssemblyReference.cache
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.pdb
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll.config
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.pdb
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.pdb
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.xml
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.pdb
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll.config
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.pdb
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.pdb
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.xml
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.pdb
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll.config
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.pdb
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.pdb
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.xml
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.pdb
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll.config
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.pdb
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.pdb
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.xml
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.pdb
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll.config
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.pdb
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.pdb
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.pdb
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.pdb
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.xml
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.csprojResolveAssemblyReference.cache
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.csprojResolveAssemblyReference.cache
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll.config
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Agencia.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\Domain.Core.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.xml
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.csprojResolveAssemblyReference.cache
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.dll
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.pdb
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll.config
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.pdb
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.dll
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\bin\Debug\Domain.Core.dll
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\bin\Debug\EntityFramework.dll
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.pdb
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\bin\Debug\Domain.Core.pdb
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\bin\Debug\EntityFramework.xml
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\bin\Debug\Domain.T2C.dll
+D:\Proyecto\Celulares\Source\T2C\DataPersistance.EntityFramework\bin\Debug\Domain.T2C.pdb
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll.config
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.dll
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\bin\Debug\DataPersistance.EntityFramework.pdb
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.dll
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\bin\Debug\Domain.Core.dll
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\bin\Debug\Domain.T2C.dll
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\bin\Debug\EntityFramework.dll
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\bin\Debug\DataPersistance.Core.pdb
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\bin\Debug\Domain.Core.pdb
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\bin\Debug\Domain.T2C.pdb
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\bin\Debug\EntityFramework.xml
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.csprojResolveAssemblyReference.cache
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.dll
+D:\Proyecto\Celulares\Repository\DataPersistance.EntityFramework\obj\Debug\DataPersistance.EntityFramework.pdb

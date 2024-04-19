@@ -1,0 +1,29 @@
+﻿@model T2C.Models.UserModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Administrator.cshtml";
+}
+
+<h3>Details</h3>
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+
+       
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Volver a la lista", "Index")
+</p>

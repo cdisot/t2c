@@ -1,0 +1,51 @@
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\Errors\Errors.resx
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\CC.Mapping.AutoMapper.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\CC.Mapping.AutoMapper.pdb
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\AutoMapper.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\AutoMapper.Net4.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\CC.Core.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\Microsoft.Practices.Unity.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\CC.Core.pdb
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\AutoMapper.xml
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\Microsoft.Practices.Unity.xml
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\obj\Release\CC.Mapping.AutoMapper.csprojResolveAssemblyReference.cache
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\obj\Release\CC.Mapping.AutoMapper.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\obj\Release\CC.Mapping.AutoMapper.pdb
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\Errors\Errors.resx
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\CC.Mapping.AutoMapper.dll
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\CC.Mapping.AutoMapper.pdb
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\AutoMapper.dll
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\AutoMapper.Net4.dll
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\CC.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\Microsoft.Practices.Unity.dll
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\CC.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\AutoMapper.xml
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\Microsoft.Practices.Unity.xml
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\obj\Release\CC.Mapping.AutoMapper.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\obj\Release\CC.Mapping.AutoMapper.dll
+E:\Work\Project\Agencia Turismo\Agencia 10-8-2015\Agencia\CC.Mapping.AutoMapper\obj\Release\CC.Mapping.AutoMapper.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\Errors\Errors.resx
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\CC.Mapping.AutoMapper.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\CC.Mapping.AutoMapper.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\AutoMapper.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\AutoMapper.Net4.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\CC.Core.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\Microsoft.Practices.Unity.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\CC.Core.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\AutoMapper.xml
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Mapping.AutoMapper\bin\Release\Microsoft.Practices.Unity.xml
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Mapping.AutoMapper\obj\Release\CC.Mapping.AutoMapper.csprojResolveAssemblyReference.cache
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Mapping.AutoMapper\obj\Release\CC.Mapping.AutoMapper.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Mapping.AutoMapper\obj\Release\CC.Mapping.AutoMapper.pdb
+D:\Proyecto\Celulares\Source\T2C\CC.Mapping.AutoMapper\bin\Release\CC.Mapping.AutoMapper.dll
+D:\Proyecto\Celulares\Source\T2C\CC.Mapping.AutoMapper\bin\Release\CC.Mapping.AutoMapper.pdb
+D:\Proyecto\Celulares\Source\T2C\CC.Mapping.AutoMapper\bin\Release\AutoMapper.dll
+D:\Proyecto\Celulares\Source\T2C\CC.Mapping.AutoMapper\bin\Release\AutoMapper.Net4.dll
+D:\Proyecto\Celulares\Source\T2C\CC.Mapping.AutoMapper\bin\Release\CC.Core.dll
+D:\Proyecto\Celulares\Source\T2C\CC.Mapping.AutoMapper\bin\Release\Microsoft.Practices.Unity.dll
+D:\Proyecto\Celulares\Source\T2C\CC.Mapping.AutoMapper\bin\Release\CC.Core.pdb
+D:\Proyecto\Celulares\Source\T2C\CC.Mapping.AutoMapper\bin\Release\AutoMapper.xml
+D:\Proyecto\Celulares\Source\T2C\CC.Mapping.AutoMapper\bin\Release\Microsoft.Practices.Unity.xml
+D:\Proyecto\Celulares\Source\T2C\CC.Mapping.AutoMapper\obj\Release\CC.Mapping.AutoMapper.csprojResolveAssemblyReference.cache
+D:\Proyecto\Celulares\Source\T2C\CC.Mapping.AutoMapper\obj\Release\CC.Mapping.AutoMapper.dll
+D:\Proyecto\Celulares\Source\T2C\CC.Mapping.AutoMapper\obj\Release\CC.Mapping.AutoMapper.pdb

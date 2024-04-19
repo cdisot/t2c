@@ -1,0 +1,9 @@
+D:\Proyecto\Celulares\Source\T2C\CellService\bin\Release\CellService.dll
+D:\Proyecto\Celulares\Source\T2C\CellService\bin\Release\CellService.pdb
+D:\Proyecto\Celulares\Source\T2C\CellService\bin\Release\Domain.Core.dll
+D:\Proyecto\Celulares\Source\T2C\CellService\bin\Release\Domain.T2C.dll
+D:\Proyecto\Celulares\Source\T2C\CellService\bin\Release\Domain.Core.pdb
+D:\Proyecto\Celulares\Source\T2C\CellService\bin\Release\Domain.T2C.pdb
+D:\Proyecto\Celulares\Source\T2C\CellService\obj\Release\CellService.csprojResolveAssemblyReference.cache
+D:\Proyecto\Celulares\Source\T2C\CellService\obj\Release\CellService.dll
+D:\Proyecto\Celulares\Source\T2C\CellService\obj\Release\CellService.pdb

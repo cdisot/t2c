@@ -1,0 +1,91 @@
+﻿@{
+    ViewBag.Title = "Android";
+    Layout = "~/Views/Shared/_MainPage.cshtml";
+}
+
+<div class="container" ng-controller="AngularCtrl" ng-init="listImagenesMarca('Phone')">
+    <div class="row col-md-offset-1" style="margin-top: 20px">
+        <h3>Sell your iPhone for cash</h3>
+        <h4>It takes just a few minutes to sell your iPhone.</h4>
+    </div>
+    <div class="main_content">
+        <div id="stacks_content" class="iphone" style="height: auto;">
+            <div class="row set">
+          
+                    <ul style="padding-left: 110px;" class="main_stack carrier_stack level_1 container">
+                        <li class="line-select" style="height: auto; opacity: 1">
+                            <a href="~/Page/Iphone" ng-show="divSelectModelo" style="height: auto; opacity: 1;" ng-model=" nametype"><img class="img" src="~/Resources/Apple.png" alt="properties" height="120" width="70"></a>
+                            <a href="~/Page/Iphone" ng-show="divSelectModeloImage" style="height: auto; opacity: 1;" class="col-md-12">Apple</a>
+                        </li>
+                        <li class="line-select" ng-repeat="category in imagenesListFromType" style="height: auto; opacity: 1" ng-class="{act: $index==isActivateModelo}" ng-click="selectActivateModelo($index)">
+                            <a ng-show="divSelectModelo" style="height: auto; opacity: 1;" ng-model=" nametype"><img class="img" src="{{category.PathImagen}}" ng-click="ClicGetkDivices('','','','', '0','0',category.NameType,'Phone','',1)" alt="properties"></a>
+                            <a ng-show="divSelectModeloImage" style="height: auto; opacity: 1;" ng-click="ClicGetkDivices('','','','', '0','0',category.NameType,'Phone','',1)" class="col-md-12">{{category.NameType}}</a>
+                        </li>
+                    </ul>
+            </div>
+
+            <div class="row set">
+                <div class="col-md-2"></div>
+                <div class="col-md-8">
+                    <ul style="padding-left: 110px;" class="main_stack carrier_stack level_1 container">
+                        <li class="line-select " ng-repeat=" company in ListCompany" style="height: auto; opacity: 1" ng-class="{act: $index==isActivate}"
+                            ng-click="selectActivate($index,company.NameType)">
+                            <a href="" ng-show="divSelectCompania" style="height: auto; opacity: 1;" ng-model="NameType"> <img src="{{company.PathImagen}} " ng-click="ClicGetkDivices('','',company.NameType, '' ,'0','0',Category,'Phone','',5)" alt=" properties" height="70" width="90"></a>
+                            <a heref="" ng-show="divSelectCompaniaImage" style="height: auto; opacity: 1;" class="col-md-12" ng-model="Company" ng-click="ClicGetkDivices('','',company.NameType, '' ,'0','0',Category,'Phone','',5)">{{company.NameType}}</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+        </div>
+
+
+    </div>
+
+    <br />
+
+    <div class="clearfix"></div>
+
+    <h4 class="row text-center" ng-show="divSelectPhone" style="background-color: sienna; color: aliceblue">
+        Select your <label style="color: black"> {{Category}}   {{Company}}  </label>  to sell.
+
+    </h4>
+
+
+    <div class="properties-listing spacer" ng-show="divSelectPhone" style="margin-left: -10px">
+        <div class="col-lg-3 col-sm-3 table-bordered" ng-repeat="divice in getlistDivice ">
+            <h5 align="center">
+                <a data-ng-href="@Url.Action("Details", "Page")/{{divice.Id}}" target=" _self">{{divice.Name}}  </a>
+            </h5>
+            <div class="properties">
+                <div class="image-holder">
+                    @*img-responsive*@
+                    <a data-ng-href="@Url.Action("Details", "Page")/{{divice.Id}}" target="_self">
+                        <img class="img" src="{{divice.Imagens[0].PathImagen}}" class="" alt="properties" height="220" width="170">
+                    </a>
+                    <div class="status sold">
+                        Estado: {{divice.Condition}}
+                    </div>
+                </div>
+                <a data-ng-href="@Url.Action("Details", "Page")/{{divice.Id}}" target="_self">
+                    {{divice.Model}}
+                </a>
+                <p class="price">
+                    <h3 class="text-danger">Precio: ${{divice.Price}}</h3>
+                </p>
+                <div class="listing-detail">
+                    <span class="glyphicon glyphicon-copyright-mark" data-toggle="tooltip" data-placement="bottom" title="Marca:{{divice.Category}} "></span>
+                    <span class="glyphicon glyphicon-floppy-disk" data-toggle="tooltip" data-placement="bottom" title="Memoria:{{divice.Memory}}GB"></span>
+                    <span class="glyphicon  glyphicon-barcode" data-toggle="tooltip" data-placement="bottom" title="Modelo:{{divice.Model}}"></span>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+
+</div>
+

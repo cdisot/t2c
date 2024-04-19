@@ -1,0 +1,115 @@
+﻿@using Domain.T2C.Interface
+@model T2C.Models.CellModel
+@{
+    ViewBag.Title = "DetailsIpod";
+    Layout = "~/Views/Shared/_MainPage.cshtml";
+}
+
+
+<div class="col-md-12 ">
+    <div class="col-md-5 col-lg-7 col-sm-7 col-lg-offset-1 text-center">
+        <div class="property-images imagen-center ">
+            <br />
+            <h2>@Html.DisplayFor(model => model.Name)</h2>
+            <!-- Slider Starts -->
+            <div id="myCarousel" class="carousel slide " data-ride="carousel">
+
+                @{
+                    var imagenes = Model.Imagens;
+                    var enumerable = imagenes as IList<IImagen> ?? imagenes.ToList();
+                    if (imagenes != null && enumerable.Any())
+                    {
+                        <ol class="carousel-indicators hidden-xs">
+                            @for (int i = 0; i < imagenes.Count(); i++)
+                            {
+                                if (i == 0)
+                                {
+                                    <li data-target="#myCarousel" data-slide-to=i class="active"></li>
+                                }
+                                else
+                                {
+                                    <li data-target="#myCarousel" data-slide-to=i class=""></li>
+                                }
+                            }
+                        </ol>
+
+                        <div class="carousel-inner">
+                            @for (int i = 0; i < imagenes.Count(); i++)
+                            {
+                                var pathImagen = enumerable[i].PathImagen;
+                                <div class="item ">
+                                    <img src=@pathImagen class="properties" alt="properties" style="width: 350px; height: 500px;">
+                                </div>
+                            }
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="item ">
+                            <img src=~/Resources/notImage.jpg class="properties" alt="properties" style="width: 100%; height: 100%;">
+                        </div>
+                    }
+
+                }
+
+
+
+
+
+
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+            </div>
+            <!-- #Slider Ends -->
+            <button type="submit" class="btn btn-warning btn-s col-md-4">
+                <span class="glyphicon glyphicon-backward"></span> @Html.ActionLink("Inicio", "t2c")
+            </button>
+        </div>
+
+    </div>
+
+    <div class="col-lg-3 col-sm-3">
+        <br /><br />
+        <div class="property-info">
+            <p class="price">$@Html.DisplayFor(model => model.Price)</p>
+
+            <div class="profile">
+                <span class="glyphicon glyphicon-copyright-mark"></span> Marca
+                <p>@Html.DisplayFor(model => model.Category)</p>
+            </div>
+            <div class="profile">
+                <span class="glyphicon glyphicon-floppy-disk"></span> Memoria
+                <p>@Html.DisplayFor(model => model.Memory) GB</p>
+            </div>
+            <div class="profile">
+                <span class="glyphicon glyphicon-share"></span> Generación
+                <p>@Html.DisplayFor(model => model.Generation)</p>
+            </div>
+          
+            <div class="profile">
+                <span class="glyphicon glyphicon-bullhorn"></span> Estado
+                <p>@Html.DisplayFor(model => model.Condition)</p>
+            </div>
+
+            @{
+                var enciende = "No";
+                if (Model.Start)
+                {
+                    enciende = "Si";
+                }
+            }
+            <div class="profile">
+                <span class="glyphicon glyphicon-sort"></span> Enciende
+                <p>@enciende</p>
+
+            </div>
+        </div>
+
+
+
+    </div>
+
+
+
+
+</div>

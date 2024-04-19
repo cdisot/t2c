@@ -1,0 +1,7 @@
+D:\Proyecto\Celulares\Source\T2C\Domain.T2C\bin\Release\Domain.T2C.dll
+D:\Proyecto\Celulares\Source\T2C\Domain.T2C\bin\Release\Domain.T2C.pdb
+D:\Proyecto\Celulares\Source\T2C\Domain.T2C\bin\Release\Domain.Core.dll
+D:\Proyecto\Celulares\Source\T2C\Domain.T2C\bin\Release\Domain.Core.pdb
+D:\Proyecto\Celulares\Source\T2C\Domain.T2C\obj\Release\Domain.T2C.csprojResolveAssemblyReference.cache
+D:\Proyecto\Celulares\Source\T2C\Domain.T2C\obj\Release\Domain.T2C.dll
+D:\Proyecto\Celulares\Source\T2C\Domain.T2C\obj\Release\Domain.T2C.pdb

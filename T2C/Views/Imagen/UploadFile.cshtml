@@ -1,0 +1,101 @@
+﻿
+
+@{
+    ViewBag.Title = "UploadFile";
+    Layout = "~/Views/Shared/_Administrator.cshtml";
+}
+<style>
+    .my-drop-zone {
+        border: dotted 3px lightgray;
+    }
+
+    .nv-file-over {
+        border: dotted 3px red;
+    }
+
+    .another-file-over-class {
+        border: dotted 3px green;
+    }
+
+    html, body {
+        height: 100%;
+    }
+</style>
+
+
+
+
+
+<div ng-controller="AppController" nv-file-drop="" uploader="uploader"
+     filters="queueLimit, customFilter">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <h4>Ver Imagen</h4>
+                <div >
+                    <div>
+                        <div class="well my-drop-zone">
+                            Seleccionar la imagen de la tabla para ver visualizarla aquí
+                        </div>
+                    </div>
+                </div>
+                Single
+                <input type="file" nv-file-select="" uploader="uploader"/>
+            </div>
+
+
+
+
+            <div class="col-md-8" style="margin-bottom: 40px">
+                <h3>Lista de imágenes</h3>
+              
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th width="50%">Nombre</th>
+                            <th >Categoría</th>
+                            <th >Tipo</th>
+                            
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr >
+                            <td><strong></strong></td>
+                            <td  nowrap>
+                               
+                            </td>
+                            <td >
+                                <div class="progress" style="margin-bottom: 0;">
+                                    <div class="progress-bar" role="progressbar"
+                                         ng-style="{ 'width': item.progress + '%' }"></div>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div>
+                    <div>
+                        Queue progress:
+                        <div class="progress" style="">
+                            <div class="progress-bar" role="progressbar"
+                                 ng-style="{ 'width': uploader.progress + '%' }"></div>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-success btn-s col-md-2"
+                            ng-click="uploader.uploadAll()"
+                            ng-disabled="!uploader.getNotUploadedItems().length">
+                        <span class="glyphicon glyphicon-upload"></span> Upload all
+                    </button>
+                    <button type="button" class="btn btn-warning btn-s col-md-2"
+                            ng-click="uploader.cancelAll()" ng-disabled="!uploader.isUploading">
+                        <span class="glyphicon glyphicon-ban-circle"></span> Cancel all
+                    </button>
+                    <button type="button" class="btn btn-danger btn-s col-md-2"
+                            ng-click="uploader.clearQueue()" ng-disabled="!uploader.queue.length">
+                        <span class="glyphicon glyphicon-trash"></span> Remove all
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

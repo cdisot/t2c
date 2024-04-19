@@ -1,0 +1,227 @@
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\bin\Debug\CC.Core.dll
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\bin\Debug\CC.Core.pdb
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\obj\Debug\CC.Core.csprojResolveAssemblyReference.cache
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\obj\Debug\CC.Core.dll
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\obj\Debug\CC.Core.pdb
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\obj\Debug\CC.Core.Errors.Errors.resources
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\obj\Debug\CC.Core.csproj.GenerateResource.Cache
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\bin\Debug\AutoMapper.dll
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\bin\Debug\AutoMapper.Net4.dll
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\bin\Debug\AutoMapper.xml
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Work\Viñales\Source\Agencia\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\bin\Debug\CC.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\bin\Debug\CC.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.Net4.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.xml
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.Errors.Errors.resources
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.csproj.GenerateResource.Cache
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia17-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.pdb
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\bin\Debug\CC.Core.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\bin\Debug\CC.Core.pdb
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.Net4.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.xml
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.csprojResolveAssemblyReference.cache
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.Errors.Errors.resources
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.csproj.GenerateResource.Cache
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.dll
+D:\Projects\Atur\Agencia22-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.pdb
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\bin\Debug\CC.Core.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\bin\Debug\CC.Core.pdb
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.Net4.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.xml
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.csprojResolveAssemblyReference.cache
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.Errors.Errors.resources
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.csproj.GenerateResource.Cache
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.dll
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.pdb
+D:\Projects\Atur\Agencia23-7-2015\Agencia\CC.Core\bin\Debug\Errors\Errors.resx
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\bin\Debug\Errors\Errors.resx
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\bin\Debug\CC.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\bin\Debug\CC.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.dll
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.Net4.dll
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.xml
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.Errors.Errors.resources
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.csproj.GenerateResource.Cache
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia24-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\bin\Debug\Errors\Errors.resx
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\bin\Debug\CC.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\bin\Debug\CC.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.Net4.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\bin\Debug\AutoMapper.xml
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.Errors.Errors.resources
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.csproj.GenerateResource.Cache
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia31-7-2015\Agencia\CC.Core\obj\Debug\CC.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\bin\Debug\Errors\Errors.resx
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\bin\Debug\CC.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\bin\Debug\CC.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\bin\Debug\AutoMapper.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\bin\Debug\AutoMapper.Net4.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\bin\Debug\AutoMapper.xml
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.Errors.Errors.resources
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.csproj.GenerateResource.Cache
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 6-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.pdb
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\bin\Debug\Errors\Errors.resx
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\bin\Debug\CC.Core.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\bin\Debug\CC.Core.pdb
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\bin\Debug\AutoMapper.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\bin\Debug\AutoMapper.Net4.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\bin\Debug\AutoMapper.xml
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.csprojResolveAssemblyReference.cache
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.Errors.Errors.resources
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.csproj.GenerateResource.Cache
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.dll
+D:\Projects\Atur\Agencia 10-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\bin\Debug\Errors\Errors.resx
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\bin\Debug\CC.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\bin\Debug\CC.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\bin\Debug\AutoMapper.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\bin\Debug\AutoMapper.Net4.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\bin\Debug\AutoMapper.xml
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.Errors.Errors.resources
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.csproj.GenerateResource.Cache
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 24-8-2015\Agencia\CC.Core\obj\Debug\CC.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\bin\Debug\Errors\Errors.resx
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\bin\Debug\CC.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\bin\Debug\CC.Core.pdb
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\bin\Debug\AutoMapper.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\bin\Debug\AutoMapper.Net4.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\bin\Debug\AutoMapper.xml
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.csprojResolveAssemblyReference.cache
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.Errors.Errors.resources
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.csproj.GenerateResource.Cache
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.dll
+E:\Work\Project\Agencia Turismo\Agencia 1-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.pdb
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\Errors\Errors.resx
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\CC.Core.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\CC.Core.pdb
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\AutoMapper.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\AutoMapper.Net4.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\AutoMapper.xml
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.csprojResolveAssemblyReference.cache
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.Errors.Errors.resources
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.csproj.GenerateResource.Cache
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.dll
+D:\Proyecto\Agencia 2-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\Errors\Errors.resx
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\CC.Core.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\CC.Core.pdb
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\AutoMapper.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\AutoMapper.Net4.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\AutoMapper.xml
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.csprojResolveAssemblyReference.cache
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.Errors.Errors.resources
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.csproj.GenerateResource.Cache
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.dll
+D:\Proyecto\Agencia\Source\Agencia 2-9-2015\Agencia\CC.Core\obj\Debug\CC.Core.pdb
+D:\Proyecto\Celulares\Source\T2C\CC.Core\obj\Debug\CC.Core.csprojResolveAssemblyReference.cache
+D:\Proyecto\Celulares\Source\T2C\CC.Core\obj\Debug\CC.Core.Errors.Errors.resources
+D:\Proyecto\Celulares\Source\T2C\CC.Core\obj\Debug\CC.Core.csproj.GenerateResource.Cache
+D:\Proyecto\Celulares\Source\T2C\CC.Core\obj\Debug\CC.Core.dll
+D:\Proyecto\Celulares\Source\T2C\CC.Core\obj\Debug\CC.Core.pdb
+D:\Proyecto\Celulares\Source\T2C\CC.Core\bin\Debug\CC.Core.dll
+D:\Proyecto\Celulares\Source\T2C\CC.Core\bin\Debug\CC.Core.pdb
+D:\Proyecto\Celulares\Source\T2C\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Proyecto\Celulares\Source\T2C\CC.Core\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyecto\Celulares\Source\T2C\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Proyecto\Celulares\Source\T2C\CC.Core\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Proyecto\Celulares\Source\T2C\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Proyecto\Celulares\Source\T2C\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Proyecto\Celulares\Repository\CC.Core\bin\Debug\CC.Core.dll
+D:\Proyecto\Celulares\Repository\CC.Core\bin\Debug\CC.Core.pdb
+D:\Proyecto\Celulares\Repository\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Proyecto\Celulares\Repository\CC.Core\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyecto\Celulares\Repository\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Proyecto\Celulares\Repository\CC.Core\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Proyecto\Celulares\Repository\CC.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Proyecto\Celulares\Repository\CC.Core\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Proyecto\Celulares\Repository\CC.Core\obj\Debug\CC.Core.csprojResolveAssemblyReference.cache
+D:\Proyecto\Celulares\Repository\CC.Core\obj\Debug\CC.Core.Errors.Errors.resources
+D:\Proyecto\Celulares\Repository\CC.Core\obj\Debug\CC.Core.csproj.GenerateResource.Cache
+D:\Proyecto\Celulares\Repository\CC.Core\obj\Debug\CC.Core.dll
+D:\Proyecto\Celulares\Repository\CC.Core\obj\Debug\CC.Core.pdb

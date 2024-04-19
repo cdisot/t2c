@@ -1,0 +1,14 @@
+D:\Proyecto\Celulares\Source\T2C\Domain.T2C\bin\Debug\Domain.T2C.dll
+D:\Proyecto\Celulares\Source\T2C\Domain.T2C\bin\Debug\Domain.T2C.pdb
+D:\Proyecto\Celulares\Source\T2C\Domain.T2C\obj\Debug\Domain.T2C.csprojResolveAssemblyReference.cache
+D:\Proyecto\Celulares\Source\T2C\Domain.T2C\obj\Debug\Domain.T2C.dll
+D:\Proyecto\Celulares\Source\T2C\Domain.T2C\obj\Debug\Domain.T2C.pdb
+D:\Proyecto\Celulares\Source\T2C\Domain.T2C\bin\Debug\Domain.Core.dll
+D:\Proyecto\Celulares\Source\T2C\Domain.T2C\bin\Debug\Domain.Core.pdb
+D:\Proyecto\Celulares\Repository\Domain.T2C\bin\Debug\Domain.T2C.dll
+D:\Proyecto\Celulares\Repository\Domain.T2C\bin\Debug\Domain.T2C.pdb
+D:\Proyecto\Celulares\Repository\Domain.T2C\bin\Debug\Domain.Core.dll
+D:\Proyecto\Celulares\Repository\Domain.T2C\bin\Debug\Domain.Core.pdb
+D:\Proyecto\Celulares\Repository\Domain.T2C\obj\Debug\Domain.T2C.csprojResolveAssemblyReference.cache
+D:\Proyecto\Celulares\Repository\Domain.T2C\obj\Debug\Domain.T2C.dll
+D:\Proyecto\Celulares\Repository\Domain.T2C\obj\Debug\Domain.T2C.pdb

@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html ng-app="MyApp">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - T2C</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+
+</head>
+<body ng-controller="AngularCtrl">
+
+    @* Barra de colores *@
+
+    <div class="wrapper">
+        <div class="bar-top headerSite"></div>
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <div class="col-md-2">
+                    <img src="~/Resources/Home.png" alt="" height="20" width="20" /> @Html.ActionLink("Visitar Sitio", "t2c", "Page")
+                </div>
+                <div class="col-md-2">
+                    <img src="~/Resources/Electronic.png" alt="" height="15" width="15" /> @Html.ActionLink("Equipos", "Index", "Cell")
+                </div>
+                <div class="col-md-2 ">
+                    <img src="~/Resources/imagen.png" alt="" height="20" width="20" /> @Html.ActionLink("Image", "Index", "Imagen")
+                </div>
+                <div class="col-md-2">
+                    <img src="~/Resources/User-Profile.png" alt="" height="15" width="15" /> @Html.ActionLink("Usuario", "Index", "User")
+                </div>
+
+                <div class="col-md-3 pull-right">
+                    @if (Session["UserID"] != null)
+                    {
+                        //Se visualiza cuando el usuario se encuentra autenticado en el sistema
+                        <strong>@Session["Username"]</strong>
+                        <img src="~/Resources/User-Login.png" alt="" height="20" width="20" />   @Html.ActionLink("Cerrar sesión", "LogOut", "User")
+                    }
+
+                </div>
+            </div>
+
+        </div>
+
+
+        <div class="col-md-12">
+
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - T2C</p>
+            </footer>
+        </div>
+    </div>
+
+
+
+
+
+
+    @*<div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Agenncia Turismo", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Agencia", "index", "Agencia")</li>
+                        <li>@Html.ActionLink("Categoria", "index", "Category")</li>
+
+                    </ul>
+                    @Html.Partial("_LoginPartial")
+                </div>
+            </div>
+        </div>*@
+    @Scripts.Render("~/angular/angular")
+    @Scripts.Render("~/Scripts")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

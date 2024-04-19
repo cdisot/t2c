@@ -1,0 +1,126 @@
+﻿@{
+    ViewBag.Title = "Ipad";
+    Layout = "~/Views/Shared/_MainPage.cshtml";
+}
+
+<div class="container" ng-controller="AngularCtrl" ng-init="listImagenesMarca('Ipad'">
+    <div class="row col-md-offset-1" style="margin-top: 20px">
+        <h3>Sell your IPad for cash</h3>
+        <h4>It takes just a few minutes to sell your IPad.</h4>
+    </div>
+    <div class="main_content">
+        <div id="stacks_content" class="iphone" style="height: auto;">
+            <div class="row set">
+                <div class="col-md-2"></div>
+                <div class="col-md-8">
+                    <ul style="padding-left: 110px;" class="main_stack carrier_stack level_1 container">
+
+                        <li class="line-select" ng-repeat="category in imagenesListFromType" style="height: auto; opacity: 1; " ng-class="{act: $index==isActivateModelo}" ng-click="selectActivateModelo($index)">
+                            <a ng-show="divSelectMarca" style="height: auto; opacity: 1; " ng-model=" nametype"><img class="img" src="{{category.PathImagen}}" ng-click="ClicGetkDivices('','','','', '0','0',category.NameType,'Ipad','',3)" alt="properties"></a>
+                            <a ng-show="divSelectMarcaImage" style="height: auto; opacity: 1;" ng-click="ClicGetkDivices('','','','', '0','0',category.NameType,'Ipad','',3)" class="col-md-12">{{category.NameType}}</a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+
+
+            <div class="row set">
+                <div class="col-md-2"></div>
+                <div class="col-md-8" ng-show="divSelectGeneration">
+                    <ul style="padding-left: 110px;" class="main_stack carrier_stack level_1 container">
+                        <li class="line-select " ng-repeat="gen in Generations" style="height: auto; opacity: 1" ng-class="{act: $index==isActivate}"
+                            ng-click="selectActivate($index,company.NameType)">
+                            <button type="button" ng-show="divSelectGeneration" style="height: auto; opacity: 1;" class="col-md-12 btn btn-warning" ng-click="ClicGetkDivices('','','', '' ,'0','0',Category,'Ipad',gen,1)">
+                                <h4>{{gen}}</h4>
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+
+            <div class="row set">
+                <div class="col-md-2"></div>
+                <div class="col-md-8" ng-show="divSelectModeloImage">
+                    <ul style="padding-left: 110px; padding-top: 20px;" class="main_stack carrier_stack level_1">
+                        <li class="line-select" ng-repeat="modelo in modelos" style="height: auto; opacity: 1" ng-class="{act: $index==isActivateModelo}" ng-click="selectActivateModelo($index)">
+                            <a ng-show="divSelectModelo" style="height: auto; opacity: 1;" ng-model=" nametype"><img src="{{modelo.Imagens[0].PathImagen}}" ng-click="ClicGetkDivices('',modelo.Model,'', '' ,'0','0',Category,'Ipad','',1)" alt="properties" height="70" width="70"></a>
+                            <a ng-show="divSelectModeloImage" style="height: auto; opacity: 1;" ng-click="ClicGetkDivices('',modelo.Model,'', '' ,'0','0',Category,'Ipad','',1)" class="col-md-12">{{modelo.Model}}</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+
+
+
+
+            <div class="row set">
+                <div class="col-md-2"></div>
+                <div class="col-md-8">
+                    <ul style="padding-left: 110px;" class="main_stack carrier_stack level_1 container" ng-show="divSelectCompaniaImage">
+                        <li class="line-select " ng-repeat=" company in ListCompany" style="height: auto; opacity: 1" ng-class="{act: $index==isActivate}"
+                            ng-click="selectActivate($index,company.NameType)">
+                            <a href="" ng-show="divSelectCompania" style="height: auto; opacity: 1;" ng-model="NameType"> <img src="{{company.PathImagen}} " ng-click="ClicGetkDivices('','',company.NameType, '' ,'0','0',Category,'Ipad',gen,5)" alt=" properties" height="70" width="90"></a>
+                            <a heref="" ng-show="divSelectCompaniaImage" style="height: auto; opacity: 1;" class="col-md-12" ng-model="Company" ng-click="ClicGetkDivices('','',company.NameType, '' ,'0','0',Category,'Ipad',gen,5)">{{company.NameType}}</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+        </div>
+
+
+    </div>
+
+    <br />
+
+    <div class="clearfix"></div>
+
+    <h4 class="row text-center" ng-show="divSelectPhone" style="background-color: sienna; color: aliceblue">
+        Select your <label style="color: black"> {{Category}}   {{Company}}  </label>  to sell.
+
+    </h4>
+
+
+    <div class="properties-listing spacer" ng-show="divSelectPhone" style="margin-left: -28px">
+        <div class="col-lg-3 col-sm-3 table-bordered" ng-repeat="divice in getlistDivice ">
+            <h5 align="center">
+                <a data-ng-href="@Url.Action("DetailsIpad", "Page")/{{divice.Id}}" target=" _self">{{divice.Category}}  </a>
+            </h5>
+            <div class="properties">
+                <div class="image-holder">
+                    @*img-responsive*@
+                    <a data-ng-href="@Url.Action("DetailsIpad", "Page")/{{divice.Id}}" target="_self">
+                        <img class="img" src="{{divice.Imagens[0].PathImagen}}" class="" alt="properties" height="220" width="170">
+                    </a>
+                    <div class="status sold">
+                        Estado: {{divice.Condition}}
+                    </div>
+                </div>
+                <a data-ng-href="@Url.Action("DetailsIpad", "Page")/{{divice.Id}}" target="_self">
+                    {{divice.Company}}
+                </a>
+                <p class="price">
+                    <h3 class="text-danger">Precio: ${{divice.Price}}</h3>
+                </p>
+                <div class="listing-detail">
+                    <span class="glyphicon glyphicon-copyright-mark" data-toggle="tooltip" data-placement="bottom" title="Marca:{{divice.Category}} "></span>
+                    <span class="glyphicon glyphicon-floppy-disk" data-toggle="tooltip" data-placement="bottom" title="Memoria:{{divice.Memory}}GB"></span>
+                    <span class="glyphicon glyphicon-briefcase" data-toggle="tooltip" data-placement="bottom" title="Compañía:{{divice.Company}}"></span>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+
+</div>
+
+
+
